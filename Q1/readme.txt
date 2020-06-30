@@ -1,6 +1,3 @@
-Name  :  Vaishnavi Kotturu
-ID    :  2017A7PS0088P
-
 -- packet.h contains 4 MACROS :
     - PACKET_SIZE : Number of bytes in payload of a packet
     - TIMER : Timeout interval
